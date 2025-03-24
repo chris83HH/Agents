@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+python-dotenv
+openai  # Or groq if that's used directly
+prophet
+plotly
+xlrd
