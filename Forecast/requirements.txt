@@ -8,4 +8,4 @@ openai  # Or groq if that's used directly
 prophet
 plotly
 xlrd
-openpxy
+openpyxl
